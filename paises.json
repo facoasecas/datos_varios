@@ -1,0 +1,966 @@
+[{
+	"pais": "Afganistán",
+	"poblacion": 38928341,
+	"pib_per_capita": 454,
+	"idh": 0.511
+}, {
+	"pais": "Albania",
+	"poblacion": 2829741,
+	"pib_per_capita": 5455,
+	"idh": 0.795
+}, {
+	"pais": "Alemania",
+	"poblacion": 83155031,
+	"pib_per_capita": 42920,
+	"idh": 0.947
+}, {
+	"pais": "Andorra",
+	"poblacion": 78000,
+	"pib_per_capita": 35398,
+	"idh": 0.868
+}, {
+	"pais": "Angola",
+	"poblacion": 32866268,
+	"pib_per_capita": 1555,
+	"idh": 0.581
+}, {
+	"pais": "Antigua y Barbuda",
+	"poblacion": 97928,
+	"pib_per_capita": 12251,
+	"idh": 0.778
+}, {
+	"pais": "Arabia Saudita",
+	"poblacion": 35013000,
+	"pib_per_capita": 20126,
+	"idh": 0.854
+}, {
+	"pais": "Argelia",
+	"poblacion": 43851043,
+	"pib_per_capita": 2954,
+	"idh": 0.748
+}, {
+	"pais": "Argentina",
+	"poblacion": 45376763,
+	"pib_per_capita": 7524,
+	"idh": 0.845
+}, {
+	"pais": "Armenia",
+	"poblacion": 2963251,
+	"pib_per_capita": 3973,
+	"idh": 0.776
+}, {
+	"pais": "Australia",
+	"poblacion": 25684000,
+	"pib_per_capita": 53759,
+	"idh": 0.944
+}, {
+	"pais": "Austria",
+	"poblacion": 8932664,
+	"pib_per_capita": 45040,
+	"idh": 0.922
+}, {
+	"pais": "Azerbaiyán",
+	"poblacion": 10119133,
+	"pib_per_capita": 4563,
+	"idh": 0.756
+}, {
+	"pais": "Bahamas",
+	"poblacion": 393248,
+	"pib_per_capita": 22108,
+	"idh": 0.814
+}, {
+	"pais": "Bangladés",
+	"poblacion": 164689000,
+	"pib_per_capita": 1721,
+	"idh": 0.632
+}, {
+	"pais": "Barbados",
+	"poblacion": 287371,
+	"pib_per_capita": 13460,
+	"idh": 0.814
+}, {
+	"pais": "Baréin",
+	"poblacion": 1487000,
+	"pib_per_capita": 20696,
+	"idh": 0.852
+}, {
+	"pais": "Bélgica",
+	"poblacion": 11554767,
+	"pib_per_capita": 43770,
+	"idh": 0.931
+}, {
+	"pais": "Belice",
+	"poblacion": 430000,
+	"pib_per_capita": 3318,
+	"idh": 0.716
+}, {
+	"pais": "Benín",
+	"poblacion": 12123198,
+	"pib_per_capita": 1134,
+	"idh": 0.545
+}, {
+	"pais": "Bielorrusia",
+	"poblacion": 9410000,
+	"pib_per_capita": 5717,
+	"idh": 0.823
+}, {
+	"pais": "Birmania - Myanmar",
+	"poblacion": 54409794,
+	"pib_per_capita": 1310,
+	"idh": 0.583
+}, {
+	"pais": "Bolivia",
+	"poblacion": 11673029,
+	"pib_per_capita": 2774,
+	"idh": 0.718
+}, {
+	"pais": "Bosnia y Herzegovina",
+	"poblacion": 3280815,
+	"pib_per_capita": 5817,
+	"idh": 0.78
+}, {
+	"pais": "Botsuana",
+	"poblacion": 2352000,
+	"pib_per_capita": 5571,
+	"idh": 0.735
+}, {
+	"pais": "Brasil",
+	"poblacion": 212559409,
+	"pib_per_capita": 5980,
+	"idh": 0.765
+}, {
+	"pais": "Brunéi",
+	"poblacion": 443000,
+	"pib_per_capita": 23752,
+	"idh": 0.838
+}, {
+	"pais": "Bulgaria",
+	"poblacion": 6916548,
+	"pib_per_capita": 9850,
+	"idh": 0.816
+}, {
+	"pais": "Burkina Faso",
+	"poblacion": 20903278,
+	"pib_per_capita": 729,
+	"idh": 0.452
+}, {
+	"pais": "Burundi",
+	"poblacion": 11890781,
+	"pib_per_capita": 209,
+	"idh": 0.433
+}, {
+	"pais": "Bután",
+	"poblacion": 753000,
+	"pib_per_capita": 2692,
+	"idh": 0.654
+}, {
+	"pais": "Cabo Verde",
+	"poblacion": 555988,
+	"pib_per_capita": 2694,
+	"idh": 0.665
+}, {
+	"pais": "Camboya",
+	"poblacion": 16718971,
+	"pib_per_capita": 1322,
+	"idh": 0.594
+}, {
+	"pais": "Camerún",
+	"poblacion": 26545864,
+	"pib_per_capita": 1351,
+	"idh": 0.563
+}, {
+	"pais": "Canadá",
+	"poblacion": 38246108,
+	"pib_per_capita": 44026,
+	"idh": 0.929
+}, {
+	"pais": "Catar",
+	"poblacion": 2684000,
+	"pib_per_capita": 47206,
+	"idh": 0.848
+}, {
+	"pais": "Chad",
+	"poblacion": 16425859,
+	"pib_per_capita": 577,
+	"idh": 0.398
+}, {
+	"pais": "Chequia",
+	"poblacion": 10701777,
+	"pib_per_capita": 22320,
+	"idh": 0.9
+}, {
+	"pais": "Chile",
+	"poblacion": 19458000,
+	"pib_per_capita": 13767,
+	"idh": 0.851
+}, {
+	"pais": "China",
+	"poblacion": 1412120000,
+	"pib_per_capita": 10451,
+	"idh": 0.761
+}, {
+	"pais": "Chipre",
+	"poblacion": 896007,
+	"pib_per_capita": 26030,
+	"idh": 0.887
+}, {
+	"pais": "Colombia",
+	"poblacion": 51049000,
+	"pib_per_capita": 5204,
+	"idh": 0.767
+}, {
+	"pais": "Comoras",
+	"poblacion": 869595,
+	"pib_per_capita": 1244,
+	"idh": 0.554
+}, {
+	"pais": "Corea del Norte",
+	"poblacion": 25778815,
+	"pib_per_capita": 604,
+	"idh": null
+}, {
+	"pais": "Corea del Sur",
+	"poblacion": 51781000,
+	"pib_per_capita": 29363,
+	"idh": 0.916
+}, {
+	"pais": "Costa de Marfil",
+	"poblacion": 26378275,
+	"pib_per_capita": 2036,
+	"idh": 0.538
+}, {
+	"pais": "Costa Rica",
+	"poblacion": 5180000,
+	"pib_per_capita": 10490,
+	"idh": 0.81
+}, {
+	"pais": "Croacia",
+	"poblacion": 4036355,
+	"pib_per_capita": 14710,
+	"idh": 0.851
+}, {
+	"pais": "Cuba",
+	"poblacion": 11326616,
+	"pib_per_capita": 8298,
+	"idh": 0.783
+}, {
+	"pais": "Dinamarca",
+	"poblacion": 5840045,
+	"pib_per_capita": 57350,
+	"idh": 0.94
+}, {
+	"pais": "Dominica",
+	"poblacion": 71991,
+	"pib_per_capita": 6132,
+	"idh": 0.742
+}, {
+	"pais": "Ecuador",
+	"poblacion": 17511000,
+	"pib_per_capita": 5125,
+	"idh": 0.759
+}, {
+	"pais": "Egipto",
+	"poblacion": 100600000,
+	"pib_per_capita": 3385,
+	"idh": 0.707
+}, {
+	"pais": "El Salvador",
+	"poblacion": 6486201,
+	"pib_per_capita": 3333,
+	"idh": 0.673
+}, {
+	"pais": "Emiratos Árabes Unidos",
+	"poblacion": 9282000,
+	"pib_per_capita": 33924,
+	"idh": 0.89
+}, {
+	"pais": "Eritrea",
+	"poblacion": 5068831,
+	"pib_per_capita": 335,
+	"idh": 0.459
+}, {
+	"pais": "Eslovaquia",
+	"poblacion": 5459781,
+	"pib_per_capita": 17820,
+	"idh": 0.86
+}, {
+	"pais": "Eslovenia",
+	"poblacion": 2108977,
+	"pib_per_capita": 24680,
+	"idh": 0.917
+}, {
+	"pais": "España",
+	"poblacion": 47326687,
+	"pib_per_capita": 25460,
+	"idh": 0.904
+}, {
+	"pais": "Estados Federados de Micronesia",
+	"poblacion": 115021,
+	"pib_per_capita": 3121,
+	"idh": 0.62
+}, {
+	"pais": "Estados Unidos",
+	"poblacion": 332183000,
+	"pib_per_capita": 58527,
+	"idh": 0.926
+}, {
+	"pais": "Estonia",
+	"poblacion": 1330068,
+	"pib_per_capita": 23060,
+	"idh": 0.892
+}, {
+	"pais": "Etiopía",
+	"poblacion": 99701000,
+	"pib_per_capita": 842,
+	"idh": 0.485
+}, {
+	"pais": "Filipinas",
+	"poblacion": 110200000,
+	"pib_per_capita": 3020,
+	"idh": 0.718
+}, {
+	"pais": "Finlandia",
+	"poblacion": 5533793,
+	"pib_per_capita": 45620,
+	"idh": 0.938
+}, {
+	"pais": "Fiyi",
+	"poblacion": 896444,
+	"pib_per_capita": 4477,
+	"idh": 0.743
+}, {
+	"pais": "Francia",
+	"poblacion": 67656682,
+	"pib_per_capita": 36520,
+	"idh": 0.901
+}, {
+	"pais": "Gabón",
+	"poblacion": 2225728,
+	"pib_per_capita": 6047,
+	"idh": 0.703
+}, {
+	"pais": "Gambia",
+	"poblacion": 2416664,
+	"pib_per_capita": 664,
+	"idh": 0.496
+}, {
+	"pais": "Georgia",
+	"poblacion": 3729000,
+	"pib_per_capita": 4239,
+	"idh": 0.812
+}, {
+	"pais": "Ghana",
+	"poblacion": 31072945,
+	"pib_per_capita": 1930,
+	"idh": 0.611
+}, {
+	"pais": "Granada",
+	"poblacion": 113000,
+	"pib_per_capita": 8137,
+	"idh": 0.779
+}, {
+	"pais": "Grecia",
+	"poblacion": 10678632,
+	"pib_per_capita": 17140,
+	"idh": 0.888
+}, {
+	"pais": "Guatemala",
+	"poblacion": 17974000,
+	"pib_per_capita": 4031,
+	"idh": 0.663
+}, {
+	"pais": "Guinea",
+	"poblacion": 13132792,
+	"pib_per_capita": 1045,
+	"idh": 0.477
+}, {
+	"pais": "Guinea Ecuatorial",
+	"poblacion": 1402985,
+	"pib_per_capita": 6268,
+	"idh": 0.592
+}, {
+	"pais": "Guinea-Bisáu",
+	"poblacion": 1967998,
+	"pib_per_capita": 637,
+	"idh": 0.48
+}, {
+	"pais": "Guyana",
+	"poblacion": 786559,
+	"pib_per_capita": 8181,
+	"idh": 0.682
+}, {
+	"pais": "Haiti",
+	"poblacion": 11402533,
+	"pib_per_capita": 1558,
+	"idh": 0.51
+}, {
+	"pais": "Honduras",
+	"poblacion": 10117000,
+	"pib_per_capita": 2358,
+	"idh": 0.634
+}, {
+	"pais": "Hungría",
+	"poblacion": 9730772,
+	"pib_per_capita": 15870,
+	"idh": 0.854
+}, {
+	"pais": "India",
+	"poblacion": 1380004385,
+	"pib_per_capita": 1863,
+	"idh": 0.645
+}, {
+	"pais": "Indonesia",
+	"poblacion": 272249000,
+	"pib_per_capita": 3683,
+	"idh": 0.718
+}, {
+	"pais": "Irak",
+	"poblacion": 40222503,
+	"pib_per_capita": 3697,
+	"idh": 0.674
+}, {
+	"pais": "Irán",
+	"poblacion": 84139000,
+	"pib_per_capita": 14189,
+	"idh": 0.783
+}, {
+	"pais": "Irlanda",
+	"poblacion": 5006324,
+	"pib_per_capita": 83990,
+	"idh": 0.955
+}, {
+	"pais": "Islandia",
+	"poblacion": 368792,
+	"pib_per_capita": 58010,
+	"idh": 0.949
+}, {
+	"pais": "Islas Marshall",
+	"poblacion": 59194,
+	"pib_per_capita": 3617,
+	"idh": 0.704
+}, {
+	"pais": "Islas Salomón",
+	"poblacion": 686878,
+	"pib_per_capita": 1970,
+	"idh": 0.567
+}, {
+	"pais": "Israel",
+	"poblacion": 9367000,
+	"pib_per_capita": 43466,
+	"idh": 0.919
+}, {
+	"pais": "Italia",
+	"poblacion": 59236213,
+	"pib_per_capita": 30040,
+	"idh": 0.892
+}, {
+	"pais": "Jamaica",
+	"poblacion": 2961161,
+	"pib_per_capita": 4139,
+	"idh": 0.734
+}, {
+	"pais": "Japón",
+	"poblacion": 125836021,
+	"pib_per_capita": 33157,
+	"idh": 0.919
+}, {
+	"pais": "Jordania",
+	"poblacion": 10203140,
+	"pib_per_capita": 3763,
+	"idh": 0.729
+}, {
+	"pais": "Kazajistán",
+	"poblacion": 19126000,
+	"pib_per_capita": 7953,
+	"idh": 0.825
+}, {
+	"pais": "Kenia",
+	"poblacion": 53771300,
+	"pib_per_capita": 1653,
+	"idh": 0.601
+}, {
+	"pais": "Kirguistán",
+	"poblacion": 6591600,
+	"pib_per_capita": 1095,
+	"idh": 0.697
+}, {
+	"pais": "Kiribati",
+	"poblacion": 119000,
+	"pib_per_capita": 1333,
+	"idh": 0.63
+}, {
+	"pais": "Kuwait",
+	"poblacion": 4671000,
+	"pib_per_capita": 19904,
+	"idh": 0.806
+}, {
+	"pais": "Laos",
+	"poblacion": 7276000,
+	"pib_per_capita": 2234,
+	"idh": 0.613
+}, {
+	"pais": "Lesoto",
+	"poblacion": 2142252,
+	"pib_per_capita": 844,
+	"idh": 0.527
+}, {
+	"pais": "Letonia",
+	"poblacion": 1893223,
+	"pib_per_capita": 17450,
+	"idh": 0.866
+}, {
+	"pais": "Líbano",
+	"poblacion": 6825442,
+	"pib_per_capita": 9910,
+	"idh": 0.744
+}, {
+	"pais": "Liberia",
+	"poblacion": 5057677,
+	"pib_per_capita": 554,
+	"idh": 0.48
+}, {
+	"pais": "Libia",
+	"poblacion": 6871287,
+	"pib_per_capita": 2453,
+	"idh": 0.724
+}, {
+	"pais": "Liechtenstein",
+	"poblacion": 39055,
+	"pib_per_capita": 136000,
+	"idh": 0.919
+}, {
+	"pais": "Lituania",
+	"poblacion": 2795680,
+	"pib_per_capita": 19760,
+	"idh": 0.882
+}, {
+	"pais": "Luxemburgo",
+	"poblacion": 634730,
+	"pib_per_capita": 114370,
+	"idh": 0.916
+}, {
+	"pais": "Macedonia del Norte",
+	"poblacion": 2068808,
+	"pib_per_capita": 5676,
+	"idh": 0.774
+}, {
+	"pais": "Madagascar",
+	"poblacion": 27691019,
+	"pib_per_capita": 413,
+	"idh": 0.528
+}, {
+	"pais": "Malasia",
+	"poblacion": 32584000,
+	"pib_per_capita": 9671,
+	"idh": 0.81
+}, {
+	"pais": "Malaui",
+	"poblacion": 19129955,
+	"pib_per_capita": 543,
+	"idh": 0.483
+}, {
+	"pais": "Maldivas",
+	"poblacion": 540542,
+	"pib_per_capita": 6065,
+	"idh": 0.74
+}, {
+	"pais": "Malí",
+	"poblacion": 20250834,
+	"pib_per_capita": 755,
+	"idh": 0.434
+}, {
+	"pais": "Malta",
+	"poblacion": 516100,
+	"pib_per_capita": 27930,
+	"idh": 0.895
+}, {
+	"pais": "Marruecos",
+	"poblacion": 36910558,
+	"pib_per_capita": 2727,
+	"idh": 0.686
+}, {
+	"pais": "Mauricio",
+	"poblacion": 1265740,
+	"pib_per_capita": 7571,
+	"idh": 0.804
+}, {
+	"pais": "Mauritania",
+	"poblacion": 4649660,
+	"pib_per_capita": 1531,
+	"idh": 0.546
+}, {
+	"pais": "México",
+	"poblacion": 127792000,
+	"pib_per_capita": 8566,
+	"idh": 0.779
+}, {
+	"pais": "Moldavia",
+	"poblacion": 2620495,
+	"pib_per_capita": 4411,
+	"idh": 0.75
+}, {
+	"pais": "Mónaco",
+	"poblacion": 39244,
+	"pib_per_capita": 170176,
+	"idh": null
+}, {
+	"pais": "Mongolia",
+	"poblacion": 3358000,
+	"pib_per_capita": 3801,
+	"idh": 0.737
+}, {
+	"pais": "Montenegro",
+	"poblacion": 620739,
+	"pib_per_capita": 7913,
+	"idh": 0.829
+}, {
+	"pais": "Mozambique",
+	"poblacion": 31255435,
+	"pib_per_capita": 394,
+	"idh": 0.456
+}, {
+	"pais": "Namibia",
+	"poblacion": 2504000,
+	"pib_per_capita": 3720,
+	"idh": 0.646
+}, {
+	"pais": "Nauru",
+	"poblacion": 10834,
+	"pib_per_capita": 9538,
+	"idh": null
+}, {
+	"pais": "Nepal",
+	"poblacion": 29136808,
+	"pib_per_capita": 1023,
+	"idh": 0.602
+}, {
+	"pais": "Nicaragua",
+	"poblacion": 6496000,
+	"pib_per_capita": 1705,
+	"idh": 0.66
+}, {
+	"pais": "Níger",
+	"poblacion": 24206636,
+	"pib_per_capita": 499,
+	"idh": 0.394
+}, {
+	"pais": "Nigeria",
+	"poblacion": 206139587,
+	"pib_per_capita": 1828,
+	"idh": 0.539
+}, {
+	"pais": "Noruega",
+	"poblacion": 5391369,
+	"pib_per_capita": 75400,
+	"idh": 0.957
+}, {
+	"pais": "Nueva Zelanda",
+	"poblacion": 5115000,
+	"pib_per_capita": 40937,
+	"idh": 0.931
+}, {
+	"pais": "Omán",
+	"poblacion": 4445000,
+	"pib_per_capita": 14223,
+	"idh": 0.813
+}, {
+	"pais": "Países Bajos",
+	"poblacion": 17475415,
+	"pib_per_capita": 49090,
+	"idh": 0.944
+}, {
+	"pais": "Pakistán",
+	"poblacion": 222590000,
+	"pib_per_capita": 1321,
+	"idh": 0.557
+}, {
+	"pais": "Palaos",
+	"poblacion": 17000,
+	"pib_per_capita": 12973,
+	"idh": 0.826
+}, {
+	"pais": "Panamá",
+	"poblacion": 4279000,
+	"pib_per_capita": 11070,
+	"idh": 0.815
+}, {
+	"pais": "Papúa Nueva Guinea",
+	"poblacion": 8947027,
+	"pib_per_capita": 2419,
+	"idh": 0.555
+}, {
+	"pais": "Paraguay",
+	"poblacion": 7353000,
+	"pib_per_capita": 4287,
+	"idh": 0.728
+}, {
+	"pais": "Perú",
+	"poblacion": 32625948,
+	"pib_per_capita": 5823,
+	"idh": 0.777
+}, {
+	"pais": "Polonia",
+	"poblacion": 37840001,
+	"pib_per_capita": 15050,
+	"idh": 0.88
+}, {
+	"pais": "Portugal",
+	"poblacion": 10298252,
+	"pib_per_capita": 20530,
+	"idh": 0.864
+}, {
+	"pais": "Reino Unido",
+	"poblacion": 67025542,
+	"pib_per_capita": 40216,
+	"idh": 0.932
+}, {
+	"pais": "República Centroafricana",
+	"poblacion": 4829764,
+	"pib_per_capita": 431,
+	"idh": 0.397
+}, {
+	"pais": "República del Congo",
+	"poblacion": 4682000,
+	"pib_per_capita": 1905,
+	"idh": 0.574
+}, {
+	"pais": "República Democrática del Congo",
+	"poblacion": 90794000,
+	"pib_per_capita": 471,
+	"idh": 0.48
+}, {
+	"pais": "República Dominicana",
+	"poblacion": 10847904,
+	"pib_per_capita": 7381,
+	"idh": 0.756
+}, {
+	"pais": "Ruanda",
+	"poblacion": 12952209,
+	"pib_per_capita": 699,
+	"idh": 0.543
+}, {
+	"pais": "Rumanía",
+	"poblacion": 19201662,
+	"pib_per_capita": 12510,
+	"idh": 0.828
+}, {
+	"pais": "Rusia",
+	"poblacion": 145558000,
+	"pib_per_capita": 10312,
+	"idh": 0.824
+}, {
+	"pais": "Samoa",
+	"poblacion": 198000,
+	"pib_per_capita": 3364,
+	"idh": 0.715
+}, {
+	"pais": "San Cristóbal y Nieves",
+	"poblacion": 53192,
+	"pib_per_capita": 16183,
+	"idh": 0.779
+}, {
+	"pais": "San Marino",
+	"poblacion": 34805,
+	"pib_per_capita": 40049,
+	"idh": null
+}, {
+	"pais": "San Vicente y las Granadinas",
+	"poblacion": 110947,
+	"pib_per_capita": 6897,
+	"idh": 0.738
+}, {
+	"pais": "Santa Lucía",
+	"poblacion": 183629,
+	"pib_per_capita": 7727,
+	"idh": 0.759
+}, {
+	"pais": "Santo Tomé y Príncipe",
+	"poblacion": 219161,
+	"pib_per_capita": 1910,
+	"idh": 0.625
+}, {
+	"pais": "Senegal",
+	"poblacion": 16744000,
+	"pib_per_capita": 1289,
+	"idh": 0.512
+}, {
+	"pais": "Serbia",
+	"poblacion": 6871547,
+	"pib_per_capita": 7780,
+	"idh": 0.806
+}, {
+	"pais": "Seychelles",
+	"poblacion": 98462,
+	"pib_per_capita": 10712,
+	"idh": 0.796
+}, {
+	"pais": "Sierra Leona",
+	"poblacion": 7976985,
+	"pib_per_capita": 446,
+	"idh": 0.452
+}, {
+	"pais": "Singapur",
+	"poblacion": 5454000,
+	"pib_per_capita": 61539,
+	"idh": 0.938
+}, {
+	"pais": "Siria",
+	"poblacion": 17500657,
+	"pib_per_capita": 1192,
+	"idh": 0.567
+}, {
+	"pais": "Somalia",
+	"poblacion": 15893219,
+	"pib_per_capita": 385,
+	"idh": null
+}, {
+	"pais": "Sri Lanka",
+	"poblacion": 21919000,
+	"pib_per_capita": 3230,
+	"idh": 0.782
+}, {
+	"pais": "Suazilandia",
+	"poblacion": 1160164,
+	"pib_per_capita": 3006,
+	"idh": 0.611
+}, {
+	"pais": "Sudáfrica",
+	"poblacion": 60143000,
+	"pib_per_capita": 5876,
+	"idh": 0.709
+}, {
+	"pais": "Sudán",
+	"poblacion": 43849269,
+	"pib_per_capita": 426,
+	"idh": 0.51
+}, {
+	"pais": "Sudán del Sur",
+	"poblacion": 11193729,
+	"pib_per_capita": 360,
+	"idh": 0.433
+}, {
+	"pais": "Suecia",
+	"poblacion": 10379295,
+	"pib_per_capita": 50910,
+	"idh": 0.945
+}, {
+	"pais": "Suiza",
+	"poblacion": 8670300,
+	"pib_per_capita": 78910,
+	"idh": 0.955
+}, {
+	"pais": "Surinam",
+	"poblacion": 603000,
+	"pib_per_capita": 4200,
+	"idh": 0.738
+}, {
+	"pais": "Tailandia",
+	"poblacion": 69800000,
+	"pib_per_capita": 6289,
+	"idh": 0.777
+}, {
+	"pais": "Tanzania",
+	"poblacion": 59734213,
+	"pib_per_capita": 995,
+	"idh": 0.529
+}, {
+	"pais": "Tayikistán",
+	"poblacion": 9537642,
+	"pib_per_capita": 748,
+	"idh": 0.668
+}, {
+	"pais": "Timor Oriental",
+	"poblacion": 1318442,
+	"pib_per_capita": 1263,
+	"idh": 0.606
+}, {
+	"pais": "Togo",
+	"poblacion": 8285000,
+	"pib_per_capita": 803,
+	"idh": 0.515
+}, {
+	"pais": "Tonga",
+	"poblacion": 100000,
+	"pib_per_capita": 4329,
+	"idh": 0.725
+}, {
+	"pais": "Trinidad y Tobago",
+	"poblacion": 1399491,
+	"pib_per_capita": 13413,
+	"idh": 0.796
+}, {
+	"pais": "Túnez",
+	"poblacion": 11818618,
+	"pib_per_capita": 3156,
+	"idh": 0.74
+}, {
+	"pais": "Turkmenistán",
+	"poblacion": 6031187,
+	"pib_per_capita": 7738,
+	"idh": 0.715
+}, {
+	"pais": "Turquía",
+	"poblacion": 84680000,
+	"pib_per_capita": 8054,
+	"idh": 0.82
+}, {
+	"pais": "Tuvalu",
+	"poblacion": 11792,
+	"pib_per_capita": 3638,
+	"idh": null
+}, {
+	"pais": "Ucrania",
+	"poblacion": 41418717,
+	"pib_per_capita": 3291,
+	"idh": 0.779
+}, {
+	"pais": "Uganda",
+	"poblacion": 42460000,
+	"pib_per_capita": 797,
+	"idh": 0.544
+}, {
+	"pais": "Uruguay",
+	"poblacion": 3473727,
+	"pib_per_capita": 13530,
+	"idh": 0.817
+}, {
+	"pais": "Uzbekistán",
+	"poblacion": 34559000,
+	"pib_per_capita": 1693,
+	"idh": 0.72
+}, {
+	"pais": "Vanuatu",
+	"poblacion": 302000,
+	"pib_per_capita": 2555,
+	"idh": 0.609
+}, {
+	"pais": "Venezuela",
+	"poblacion": 28435943,
+	"pib_per_capita": 2886,
+	"idh": 0.711
+}, {
+	"pais": "Vietnam",
+	"poblacion": 97338583,
+	"pib_per_capita": 3092,
+	"idh": 0.704
+}, {
+	"pais": "Yemen",
+	"poblacion": 29825968,
+	"pib_per_capita": 554,
+	"idh": 0.47
+}, {
+	"pais": "Yibuti",
+	"poblacion": 1002000,
+	"pib_per_capita": 2999,
+	"idh": 0.524
+}, {
+	"pais": "Zambia",
+	"poblacion": 18383956,
+	"pib_per_capita": 864,
+	"idh": 0.584
+}, {
+	"pais": "Zimbabue",
+	"poblacion": 14862927,
+	"pib_per_capita": 1063,
+	"idh": 0.571
+}]
